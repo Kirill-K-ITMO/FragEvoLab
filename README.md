@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/fragevolab-logo.png" alt="FragEvoLab logo" width="670">
+</p>
 # FragEvoLab 3.1.4
 
 FragEvoLab generates small molecules through evolutionary search and evaluates them using AutoDock Vina docking. Input structures are supplied as SMILES. The program builds a BRICS fragment bank, modifies molecules through atom-level and fragment-level mutations, assembles new structures, and selects candidates using a single scalar fitness function.
