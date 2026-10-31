@@ -7,6 +7,11 @@
   ],
   "files": [
     {
+      "path": ".gitattributes",
+      "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
+      "size": 9
+    },
+    {
       "path": ".github/workflows/tests.yml",
       "sha256": "8d6a3e18f8984323a11f032834c279dfa16fe6fda2e8b0b7a6af3aba3fc95652",
       "size": 436
@@ -33,8 +38,8 @@
     },
     {
       "path": "CONTENTS.txt",
-      "sha256": "3652f8a6dcec8ef661fb54f53267725153dc111352da6a0ed976928216d47bbd",
-      "size": 3160
+      "sha256": "92db64de7f2ef100492c463a7980dc0fd2a01a153037059e1e3f3f676f11548d",
+      "size": 3305
     },
     {
       "path": "LICENSE",
