@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: >-
+  If you use FragEvoLab in your work, please cite it using these metadata.
+type: software
+title: "FragEvoLab: evolutionary molecular generation and docking"
+version: "3.1.4"
+authors:
+  - family-names: "Karhanin"
+    given-names: "Kirill V."
+license: MIT
+abstract: >-
+  FragEvoLab provides fragment-based evolutionary molecular generation,
+  configurable atom-level and fragment-level mutations, adaptive weights,
+  target and off-target docking objectives, calculation caching, checkpoints,
+  and reports. AutoDock Vina is used as an external docking executable.
+keywords:
+  - cheminformatics
+  - evolutionary molecular design
+  - molecular docking
+  - fragment-based generation

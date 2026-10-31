@@ -1,0 +1,76 @@
+[
+  {
+    "name": "JAK1_3EYG",
+    "pdb_id": "3EYG",
+    "source_url": "https://www.rcsb.org/structure/3EYG",
+    "pdb_doi": "10.2210/pdb3EYG/pdb",
+    "chain": "A",
+    "box_center_angstrom": [
+      10.96,
+      14.23,
+      -14.78
+    ],
+    "box_size_angstrom": [
+      20,
+      20,
+      20
+    ],
+    "reference_ligand": "MI1",
+    "deleted_incomplete_residues": [
+      "A:GLU946",
+      "A:ASN950",
+      "A:GLU1029"
+    ],
+    "original_download_date": null,
+    "receptor_preparation_meeko_version": null,
+    "preparation_pH": null,
+    "files": [
+      {
+        "filename": "JAK1_3EYG.pdbqt",
+        "sha256": "fc729d76a6ee6611469ef35ca0d688be3ac6feecbeb825f0b65102345861eb25",
+        "path": "proteins/JAK1_3EYG.pdbqt"
+      },
+      {
+        "filename": "JAK1_3EYG.txt",
+        "sha256": "be116068798031160f4a2eff8a16594377ef2277ca1615a06142c6e871f485e7",
+        "path": "configs/JAK1_3EYG.txt"
+      }
+    ]
+  },
+  {
+    "name": "JAK2_6BBV",
+    "pdb_id": "6BBV",
+    "source_url": "https://www.rcsb.org/structure/6BBV",
+    "pdb_doi": "10.2210/pdb6BBV/pdb",
+    "chain": "A",
+    "box_center_angstrom": [
+      -5.49,
+      1.36,
+      8.3
+    ],
+    "box_size_angstrom": [
+      20,
+      20,
+      20
+    ],
+    "reference_ligand": "D7D",
+    "deleted_incomplete_residues": [
+      "A:LYS1053"
+    ],
+    "original_download_date": null,
+    "receptor_preparation_meeko_version": null,
+    "preparation_pH": null,
+    "files": [
+      {
+        "filename": "JAK2_6BBV.pdbqt",
+        "sha256": "39ec9b5a023db662bca24a28f04ed02c302e47eadd09d538d9bd6f8f1ee9471a",
+        "path": "proteins/JAK2_6BBV.pdbqt"
+      },
+      {
+        "filename": "JAK2_6BBV.txt",
+        "sha256": "4548e5d7d37afa88d53703dbb7d0d24c366c42741f27c87b9b2f92b3d6d8cdaf",
+        "path": "configs/JAK2_6BBV.txt"
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "targets": [
+    {
+      "name": "JAK1_3EYG",
+      "weight": 1.0,
+      "threshold": null,
+      "offset": 0.0,
+      "scale": 1.0
+    }
+  ],
+  "off_targets": [
+    {
+      "name": "JAK2_6BBV",
+      "weight": 1.0,
+      "threshold": -5,
+      "offset": 0.0,
+      "scale": 1.0
+    }
+  ],
+  "penalty_strength": 1.0,
+  "target_aggregation": "mean",
+  "population_size": 50,
+  "generations": 5,
+  "parent_count": 10,
+  "elite_fraction": 0.1,
+  "mutation_fraction": 0.65,
+  "level_probabilities": {
+    "atom": 0.7,
+    "fragment": 0.3
+  },
+  "atom_probabilities": {
+    "add_atom": 0.4,
+    "remove_atom": 0.1,
+    "substitute_atom": 0.5,
+    "change_bond": 0.0
+  },
+  "mutation_steps": 1,
+  "adaptive_fragments": false,
+  "adaptive_operators": false,
+  "exploration": 0.2,
+  "prior_strength": 5.0,
+  "reward_scale": 1.0,
+  "min_operator_observations": 5,
+  "max_attempts_per_slot": 30,
+  "max_similarity": 1.0,
+  "max_mw": 500.0,
+  "max_logp": 5.0,
+  "min_nitrogen": 1,
+  "seed": 42,
+  "preparation_seed": 42,
+  "exhaustiveness": 4,
+  "num_workers": 3,
+  "force_preparation": false,
+  "force_docking": false
+}

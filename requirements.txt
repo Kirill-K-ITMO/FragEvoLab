@@ -1,0 +1,13 @@
+# Python 3.12 runtime dependencies.
+# Vina is a separate executable, not installed by this file.
+rdkit==2026.3.6
+meeko==0.8.0
+gemmi==0.7.5
+numpy==2.3.5
+scipy==1.17.0
+Pillow==12.3.0
+rich==15.0.0
+filelock==4.0.12
+
+# Menu and HTML reports
+Jinja2==3.1.6
