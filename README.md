@@ -539,7 +539,7 @@ See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for dependency licenses,
 
 ## Authors and acknowledgments
 
-- **Kirill V. Karhanin** - software author and developer.
+- **Kirill V. Karkhanin** - software author and developer.
 - **Alexander S. Novikov** - scientific supervision.
 
 Scientific supervision is acknowledged separately from software authorship.
