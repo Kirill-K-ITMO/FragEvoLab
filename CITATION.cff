@@ -5,7 +5,7 @@ type: software
 title: "FragEvoLab: evolutionary molecular generation and docking"
 version: "3.1.4"
 authors:
-  - family-names: "Karhanin"
+  - family-names: "Karkhanin"
     given-names: "Kirill V."
 license: MIT
 abstract: >-
