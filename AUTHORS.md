@@ -2,7 +2,7 @@
 
 ## Software authorship
 
-**Kirill V. Karhanin** is the software author and developer of FragEvoLab.
+**Kirill V. Karkhanin** is the software author and developer of FragEvoLab.
 The original project code is distributed under the [MIT License](LICENSE).
 
 ## Scientific supervision
