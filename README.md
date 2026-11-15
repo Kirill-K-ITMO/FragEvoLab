@@ -528,7 +528,7 @@ The API still allows an explicit alternative temperature. For imported results o
 ## License
 
 FragEvoLab's original code is distributed under the [MIT License](LICENSE).
-Copyright (c) 2026 Kirill V. Karhanin.
+Copyright (c) 2026 Kirill V. Karkhanin.
 
 Third-party packages, external executables, and datasets retain their own
 licenses and terms; the project's MIT license does not replace those terms.
